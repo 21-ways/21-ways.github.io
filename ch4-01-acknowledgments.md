@@ -39,7 +39,7 @@ are too many to list them all, but I'll do my best to name a few.
 -   Thanks to [Dhruv Bansal] and [Matt Odell] for taking the time to
     discuss some of these ideas with me.
 -   Thanks to [Guy Swann] for producing an audio version
-    of 21lessons.com.
+    of 21WaysBook.com.
 -   Last but not least, thanks to all the bitcoin maximalists, shitcoin
     minimalists, shills, bots, and shitposters which reside in the
     beautiful garden that is Bitcoin twitter. And finally, thank *you* for

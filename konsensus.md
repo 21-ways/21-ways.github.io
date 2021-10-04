@@ -6,7 +6,7 @@ title: Dear Amazon KDP
 
 Dear Amazon,
 
-I am the author of [21 Lessons](https://21lessons.com/), a book published under
+I am the author of [21 Ways](https://21WaysBook.com/), a book published under
 a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. The
 [English version](https://www.amazon.com/dp/1697526349/) of the book was
 approved by you and is available on Amazon. The [Kindle
@@ -14,7 +14,7 @@ version](https://www.amazon.com/dp/B083L93MJ7) was approved by you as well and
 is available on Amazon too.
 
 The book was [translated into multiple
-languages](https://21lessons.com/translations) by volunteers under the same CC
+languages](https://21WaysBook.com/translations) by volunteers under the same CC
 BY-SA 4.0 license. The [German version](https://www.amazon.de/dp/B085KR54YT/)
 "21 Lektionen" was approved by you and is available on Amazon.
 
@@ -29,7 +29,7 @@ concerning.
 So, again, just for you guys:
 
 **I hereby grant [Konsensus
-Network](https://konsensus.network/) all necessary rights to publish 21 Lessons
+Network](https://konsensus.network/) all necessary rights to publish 21 Ways
 in other languages, such as Dutch and Finnish. These rights are implicit in the Creative
 Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.**
 

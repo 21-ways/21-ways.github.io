@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 21 Lessons
+title: 21 Ways
 subtitle: What I've Learned from Falling Down the Bitcoin Rabbit Hole
-subtitle_link: http://21lessons.com
+subtitle_link: http://21WaysBook.com
 category: bitcoin
 description: An exploration of questions and lessons learned from falling down the Bitcoin rabbit hole.
 quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
@@ -28,7 +28,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
   <picture>
     <source srcset="/assets/images/21-lessons-book-ebook-audiobook.webp" type="image/webp"/>
     <source srcset="/assets/images/21-lessons-book-ebook-audiobook.png" type="image/png"/>
-    <img src="/assets/images/21-lessons-book-ebook-audiobook.webp" alt="21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole">
+    <img src="/assets/images/21-lessons-book-ebook-audiobook.webp" alt="21 Ways - What I've Learned from Falling Down the Bitcoin Rabbit Hole">
   </picture>
   <a href="https://amzn.to/2Wa4qJo" title="Paperback" style="position: absolute; left: 6%; top: 5.33%; width: 21.11%; height: 80.33%; z-index: 2;"></a><a href="https://amzn.to/3bvM49P" title="Kindle Edition" style="position: absolute; left: 27.33%; top: 4.67%; width: 34.56%; height: 81%; z-index: 2;"></a><a href="https://amzn.to/2ZeUsYX" title="Listen on Audible" style="position: absolute; left: 69.11%; top: 5.33%; width: 23.56%; height: 76.33%; z-index: 2;"></a><a href="https://amzn.to/2Wa4qJo" title="Buy on Amazon" style="position: absolute; left: 27.33%; top: 89.17%; width: 14%; height: 9.5%; z-index: 2;"></a><a href="https://amzn.to/2ZeUsYX" title="Listen on Audible" style="position: absolute; left: 74.22%; top: 89.33%; width: 13.44%; height: 8.67%; z-index: 2;"></a>
 </div>
@@ -41,7 +41,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
     <source srcset="/assets/images/flags.png" type="image/png"/>
     <img src="/assets/images/flags.webp" alt="Translations" style="width: 100%">
   </picture>
-  <a href="https://amzn.to/2Wa4qJo" title="21 Lessons" style="position: absolute; left: 0%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
+  <a href="https://amzn.to/2Wa4qJo" title="21 Ways" style="position: absolute; left: 0%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
   <a href="https://amzn.to/2AtlfWZ" title="21 Lektionen" style="position: absolute; left: 11.3%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
   <a href="https://amzn.to/2WYYkKL" title="21 Oppituntia" style="position: absolute; left: 22.41%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
   <a href="https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc" title="21 Ders" style="position: absolute; left: 33.7%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
@@ -53,7 +53,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 </div>
 
 
-Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
+Thanks to the awesome members of the Bitcoin community, 21 Ways is available
 in [several languages][translations], as an [audio version][audio], and as
 a [virtual reality world][vr].
 

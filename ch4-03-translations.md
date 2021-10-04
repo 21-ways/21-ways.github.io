@@ -8,7 +8,7 @@ order: ch4-03
 toc: true
 ---
 
-21 Lessons is published under the [Creative Commons Attribution-ShareAlike 4.0 International
+21 Ways is published under the [Creative Commons Attribution-ShareAlike 4.0 International
 (CC BY-SA 4.0) license][cc-by-sa], as is [my other work][other-work]. That means that you are free to share, adapt, and
 translate the material as you see fit. The only requirement is that you must distribute your
 contributions under the same license.
@@ -18,13 +18,13 @@ contributions under the same license.
 
 ### Remixes
 
-- 🎮 [21 Lessons VR][vr] by BITPAINT
+- 🎮 [21 Ways VR][vr] by BITPAINT
 
 [vr]: {{ 'vr' | absolute_url }}
 
 ### Print
 
-- 🇺🇸 [English: 21 Lessons][en-paperback] - What I've Learned from Falling Down the Bitcoin Rabbit Hole ([Paperback][en-paperback], [Kindle][en-kindle])
+- 🇺🇸 [English: 21 Ways][en-paperback] - What I've Learned from Falling Down the Bitcoin Rabbit Hole ([Paperback][en-paperback], [Kindle][en-kindle])
 - 🇩🇪 [German: 21 Lektionen][de-paperback] - Meine Reise in den Bitcoin Kaninchenbau ([Paperback][de-paperback], [Kindle][de-kindle])
 - 🇫🇮 [Finnish: 21 Oppituntia][fin-paperback] - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon ([Paperback][fin-paperback])
 - 🇳🇱 [Dutch: 21 Lessen][nl-paperback] - Wat Ik Heb Geleerd Door Mijn Val In Het Bitcoinkonijnenhol ([Paperback][nl-paperback])

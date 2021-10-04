@@ -23,18 +23,18 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 
 ### Commentary
 
-Below are recordings of thoughts, discussions, and commentary on 21 Lessons,
+Below are recordings of thoughts, discussions, and commentary on 21 Ways,
 thanks to the fine folks who were kind enough to [interview me][interviews]:
 
 **English**
 
-- [21 Lessons][cb38] on Citizen Bitcoin
+- [21 Ways][cb38] on Citizen Bitcoin
 
 **German**
 
-- [21 Lessons, Chapter 1][turm8] on Bitcoin im Turm
-- [21 Lessons, Chapter 2][turm9] on Bitcoin im Turm
-- [21 Lessons, Chapter 3][turm10] on Bitcoin im Turm
+- [21 Ways, Chapter 1][turm8] on Bitcoin im Turm
+- [21 Ways, Chapter 2][turm9] on Bitcoin im Turm
+- [21 Ways, Chapter 3][turm10] on Bitcoin im Turm
 
 [interviews]: https://dergigi.com/bitcoin/interviews/
 

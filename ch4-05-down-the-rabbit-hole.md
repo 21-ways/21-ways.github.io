@@ -9,7 +9,7 @@ toc: true
 
 ### Through the Looking Glass
 
-After writing 21 Lessons, I wrote some articles and essays to explore a few of
+After writing 21 Ways, I wrote some articles and essays to explore a few of
 Bitcoin's aspects further. These articles are marked by an 🔍.
 
 I am currently working on my second book, [21 Ways](http://21waysbook.com/).

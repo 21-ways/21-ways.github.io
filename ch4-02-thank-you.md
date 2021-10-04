@@ -8,7 +8,7 @@ order: ch4-02
 toc: true
 ---
 
-Thank you for reading 21 Lessons. If you enjoyed the book, please [buy a
+Thank you for reading 21 Ways. If you enjoyed the book, please [buy a
 copy][amazon], [leave a review][amazon], or share it with your friends. If you
 have any suggestions for improvements, please reach out to me [here][contact].
 
