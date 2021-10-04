@@ -1,0 +1,73 @@
+# Site/SEO settings
+email: dergigi@pm.me
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+google_analytics:
+
+name: Gigi
+title: 21Lessons.com
+description: >
+  21 Lessons Learned from Falling Down the Bitcoin Rabbit Hole.
+url: https://21lessons.com
+twitter_username: dergigi
+default_img: /assets/images/avatar.jpg
+social:
+  - name: twitter
+    url: https://twitter.com/dergigi
+  - name: mastodon
+    url: https://bitcoinhackers.org/@dergigi
+  - name: github
+    url: https://github.com/21-lessons/21-lessons.github.io
+  - name: bitcoin
+    url: https://dergigi.com/support
+  - name: patreon
+    url: https://www.patreon.com/dergigi
+
+# Collections
+collections_dir: collections
+collections:
+  lessons:
+    output: true
+    permalink: /:path/ # path = filename relative
+  books:
+    title: Books
+    output: true
+  episodes:
+    title: Episodes
+    output: true
+  articles:
+    title: Articles
+    output: true
+  links:
+    title: Links
+    output: true
+  reviews:
+    title: Reviews
+    output: true
+
+# Author settings
+author:
+  - name: Gigi
+    bio: Bio as in biological?
+    url: https://dergigi.com/contact
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - env
+  - scripts
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md

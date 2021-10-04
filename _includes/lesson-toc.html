@@ -1,0 +1,19 @@
+{% assign toc_pages = site.pages | where: "toc", true %}
+{% assign pages_sorted = toc_pages | concat: site.lessons | sort: 'order' %}
+
+<ul>
+{% for lesson in pages_sorted %}
+  <li>
+    <a href="{{ lesson.url | absolute_url }}">
+      {{ lesson.title }}
+      {% if lesson.title contains 'Lesson ' or lesson.title contains 'Chapter ' %} : {{ lesson.subtitle }} {% endif %}
+    </a>
+  </li>
+
+  <!-- Sub-lists for each chapter -->
+  {% if lesson.title contains 'Chapter' %}<ul>{% endif %}
+  {% if lesson.title == 'Lesson 7' %}</ul>{% endif %}
+  {% if lesson.title == 'Lesson 14' %}</ul>{% endif %}
+  {% if lesson.title == 'Lesson 21' %}</ul>{% endif %}
+{% endfor %}
+</ul>
