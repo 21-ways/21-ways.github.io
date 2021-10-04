@@ -5,7 +5,7 @@ subtitle: 21 Ways To Look At Bitcoin
 subtitle_link: http://21WaysBook.com
 category: bitcoin
 description: The prismatic nature of Bitcoin explored through 21 lenses.
-quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
+quote: "\"Is it possible that there are people who say "Bitcoin" and suppose they mean something shared by all?\""
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
@@ -27,5 +27,9 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 {% assign pages_sorted = toc_pages | concat: site.ways | sort: 'order' %}
 
 {% for way in pages_sorted %}
-  * {{ way.title }}
+  {% if way.link %}
+  1. [{{ way.title }}]({{ way.link }})
+  {% else %}
+  1. {{ way.title }}
+  {% endif %}
 {% endfor %}

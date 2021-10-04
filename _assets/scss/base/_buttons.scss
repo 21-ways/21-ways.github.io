@@ -35,18 +35,67 @@ button {
     border: 0;
     text-align: center;
     display: inline-block;
-    padding: 0.5em;
-    width: 10em;
+    padding: 0.5em 2em;
     margin: 0.21em;
     color: $color-white !important;
-    background-color: $color-orange-dark;
     border-radius: 8px;
-    font-weight: bolder;
-    font-size: $font-large;
     text-decoration: none !important;
     transition: box-shadow 200ms ease-out;
   }
+}
+
+.button-large {
+  a {
+    font-weight: bolder;
+    font-size: $font-large;
+  }
+}
+
+.button-medium {
+  a {
+    font-weight: bold;
+  }
+}
+
+.button-small {
+  a {
+    font-weight: bold;
+    font-size: $font-small;
+  }
+}
+
+.button-red {
+  a {
+    background-color: $color-red;
+  }
   a:hover {
     background-color: $color-orange;
+  }
+}
+
+.button-blue {
+  a {
+    background-color: $color-blue;
+  }
+  a:hover {
+    background-color: $color-orange;
+  }
+}
+
+.button-black {
+  a {
+    background-color: $color-darkergrey;
+  }
+  a:hover {
+    background-color: $color-darkgrey;
+  }
+}
+
+.button-orange {
+  a {
+    background-color: $color-orange;
+  }
+  a:hover {
+    background-color: $color-yellow;
   }
 }
