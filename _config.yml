@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: dergigi@pm.me
+email: 21ways@dergigi.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
@@ -7,7 +7,7 @@ google_analytics:
 name: Gigi
 title: 21WaysBook.com
 description: >
-  21 Ways Learned from Falling Down the Bitcoin Rabbit Hole.
+  21 Ways To Look At Bitcoin
 url: https://21WaysBook.com
 twitter_username: dergigi
 default_img: /assets/images/avatar.jpg
@@ -17,7 +17,7 @@ social:
   - name: mastodon
     url: https://bitcoinhackers.org/@dergigi
   - name: github
-    url: https://github.com/21-lessons/21-lessons.github.io
+    url: https://github.com/21-ways/21-ways.github.io
   - name: bitcoin
     url: https://dergigi.com/support
   - name: patreon
@@ -26,24 +26,9 @@ social:
 # Collections
 collections_dir: collections
 collections:
-  lessons:
+  ways:
     output: true
     permalink: /:path/ # path = filename relative
-  books:
-    title: Books
-    output: true
-  episodes:
-    title: Episodes
-    output: true
-  articles:
-    title: Articles
-    output: true
-  links:
-    title: Links
-    output: true
-  reviews:
-    title: Reviews
-    output: true
 
 # Author settings
 author:
