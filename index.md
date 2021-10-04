@@ -23,6 +23,17 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 ---
 
+Introduction
+
+
+Terminology
+
+
+Chapter Zero: A Quick And Dirty Explanation
+
+
+### 21 Ways
+
 {% assign toc_pages = site.pages | where: "toc", true %}
 {% assign pages_sorted = toc_pages | concat: site.ways | sort: 'order' %}
 
@@ -33,3 +44,10 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
   1. {{ way.title }}
   {% endif %}
 {% endfor %}
+
+
+What Bitcoin Is Not
+
+Glossary
+
+Thanks
