@@ -5,10 +5,10 @@ permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: Gigi
-title: 21WaysBook.com
+title: 21-ways.com
 description: >
   21 Ways To Look At Bitcoin
-url: https://21WaysBook.com
+url: https://21-ways.com
 twitter_username: dergigi
 default_img: /assets/images/avatar.jpg
 social:

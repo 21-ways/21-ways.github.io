@@ -1,12 +1,12 @@
 # 21 Ways
 
-![](https://21WaysBook.com/assets/images/bitcoin-orange-pill.jpg)
+![](https://21-ways.com/assets/images/bitcoin-orange-pill.jpg)
 
 ## What I've Learned from Falling Down the Bitcoin Rabbit Hole
 
 A collection of lessons learned from falling down the Bitcoin rabbit hole. 
 
-Visit [21WaysBook.com](https://21WaysBook.com/) to view a live version of this site. 
+Visit [21-ways.com](https://21-ways.com/) to view a live version of this site. 
 
 ## Print Version
 

@@ -2,7 +2,7 @@
 layout: page
 title: 21 Ways
 subtitle: 21 Ways To Look At Bitcoin
-subtitle_link: http://21WaysBook.com
+subtitle_link: http://21-ways.com
 category: bitcoin
 description: The prismatic nature of Bitcoin explored through 21 lenses.
 quote: "\"Is it possible that there are people who say 'Bitcoin' and suppose they mean something shared by all?\""
