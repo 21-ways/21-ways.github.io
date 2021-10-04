@@ -2,7 +2,7 @@
 {% assign notFound = "Page Not Found" %}
 
 {% assign toc_pages = site.pages | where: "toc", true %}
-{% assign pages_sorted = toc_pages | concat: site.lessons | sort: 'order' %}
+{% assign pages_sorted = toc_pages | concat: site.ways | sort: 'order' %}
 {% assign lessons_count = pages_sorted | size %}
 
 {% for lesson in pages_sorted %}

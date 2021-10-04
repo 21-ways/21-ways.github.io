@@ -9,7 +9,7 @@
   {% assign skipUntil = "Lesson 14" %}
 {% endcase %}
 <ul>
-{% assign lessons_sorted = site.lessons | sort: 'order' %}
+{% assign lessons_sorted = site.ways | sort: 'order' %}
 {% for lesson in lessons_sorted %}
   {% if lesson.title == skipUntil %}{% assign skipUntil = false %}{% continue %}{% endif %}
   {% if skipUntil %}{% continue %}{% endif %}
