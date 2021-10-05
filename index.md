@@ -27,6 +27,10 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 ---
 
+> Bitcoin is different things to different people.
+
+---
+
 Introduction
 
 
