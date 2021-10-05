@@ -9,20 +9,6 @@ quote: "\"Is it possible that there are people who say 'Bitcoin' and suppose the
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
-<div class="action-buttons">
-  <div class="button button-red button-large">
-    <a href="https://patreon.com/dergigi"><i class="fab fa-patreon"></i> &nbsp; Become a Patron</a>
-  </div>
-  <small>
-    (or
-    <a href="https://dergigi.com/support">support me</a>
-    in another way
-    )
-  </small>
-</div>
-
----
-
 {% include image.html path="/assets/images/21-ways-circle-orange.png" link="https://patreon.com/dergigi" %}
 
 ---
@@ -42,6 +28,20 @@ on [patreon] if you want to tag along and support the project.
 
 ---
 
+<div class="action-buttons">
+  <div class="button button-red button-large">
+    <a href="https://patreon.com/dergigi"><i class="fab fa-patreon"></i> &nbsp; Become a Patron</a>
+  </div>
+  <small>
+    (or
+    <a href="https://dergigi.com/support">support me</a>
+    in another way
+    )
+  </small>
+</div>
+
+---
+
 Introduction
 
 
@@ -50,8 +50,6 @@ Terminology
 
 Chapter Zero: A Quick And Dirty Explanation
 
-
-### 21 Ways
 
 {% assign toc_pages = site.pages | where: "toc", true %}
 {% assign pages_sorted = toc_pages | concat: site.ways | sort: 'order' %}
