@@ -31,6 +31,17 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 ---
 
+21 Ways is a work in progress. Some chapters have already been published.
+Just like my first book 21 Lessons, this book will be released under a
+permissive [creative commons] license. Follow me on [twitter] and support me
+on [patreon] if you want to tag along and support the project.
+
+[creative commons]: https://dergigi.com/license
+[twitter]: https://twitter.com/dergigi
+[patreon]: https://patreon.com/dergigi
+
+---
+
 Introduction
 
 
