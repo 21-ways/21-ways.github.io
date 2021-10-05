@@ -23,6 +23,10 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 ---
 
+{% include image.html path="/assets/images/21-ways-circle-orange.png" link="https://patreon.com/dergigi" %}
+
+---
+
 Introduction
 
 
