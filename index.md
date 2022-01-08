@@ -53,8 +53,7 @@ Terminology
 Chapter Zero: A Quick And Dirty Explanation
 
 
-{% assign toc_pages = site.pages | where: "toc", true %}
-{% assign pages_sorted = toc_pages | concat: site.ways | sort: 'order' %}
+{% assign pages_sorted = concat: site.ways | sort: 'order' %}
 
 {% for way in pages_sorted %}
   {% if way.link %}
