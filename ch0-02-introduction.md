@@ -3,7 +3,8 @@ layout: lesson
 title: "Introduction"
 redirect_from: /intro
 author: Gigi
-order: 0
+order: ch0-02
+toc: true
 ---
 
 *Bitcoin is different things to different people.* The first time I\'ve
