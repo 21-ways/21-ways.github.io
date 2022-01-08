@@ -163,14 +163,14 @@ single facet of it. Instead, I believe that one has to try to understand
 Bitcoin holistically, which is why I will show you *[21 Ways to Look at
 Bitcoin][21ways]*.
 
-[Theophite]: https://twitter.com/Theophite/status/1030225104234373121?s=20
-[Eevee]: https://twitter.com/ComradeEevee/status/1146296545828057088?s=20
+[Theophite]: https://archive.is/bh9yA
+[Eevee]: https://archive.is/xNuVR
 [Saifedean Ammous]: https://amzn.to/2TLl5RP
-[Alex Gladstein]: https://twitter.com/gladstein/status/1135251018248347653?s=20
-[Yan Pritzker]: https://twitter.com/skwp/status/1211405435095281665?s=20
-[Bitgeiniog]: https://twitter.com/bitgeiniog/status/1211197824265785349?s=20
-[Obi-Wan Kenobit]: https://twitter.com/ObiWanKenoBit/status/1134987725038182401?s=20
+[Alex Gladstein]: https://archive.is/uFvTM
+[Yan Pritzker]: https://archive.is/n6OLg
+[Bitgeiniog]: https://archive.is/ecmnK
+[Obi-Wan Kenobit]: https://archive.is/9IZgC
 
 
-[stumbled upon]: https://twitter.com/chriscoins1/status/1258226915325820929?s=20
+[stumbled upon]: https://archive.is/PiXUJ
 [21ways]: https://21-ways.com
