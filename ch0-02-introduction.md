@@ -17,9 +17,8 @@ biology. But your educational background isn\'t the only variable. Your
 upbringing, your ideology, even your political views - all these will
 influence how you see and understand Bitcoin.
 
-To some, Bitcoin is a once-in-a-millennium invention\[Footnote: Some
-people argue that Bitcoin can also be understood as a discovery, but
-more on that later.\]: the greatest thing that happened to money since
+To some, Bitcoin is a once-in-a-millennium invention[^invention]:
+the greatest thing that happened to money since
 we started picking up yellow rocks thousands of years ago. To others, it
 is the greatest Ponzi scheme on earth: funny internet money that has no
 intrinsic value. To me, it is one of the most fascinating phenomena of
@@ -28,6 +27,8 @@ computer network, social movement, silent revolution, and so much more.
 A piece of machinery that is both simple and extremely complex at the
 same time. A living, breathing, cybernetic organism that is more than
 its parts. 
+
+[^invention]: Some people argue that Bitcoin can also be understood as a discovery, but more on that later.
 
 I\'m convinced that Bitcoin will touch all of our lives at some point in
 the future, just like electricity did in the past and the internet does

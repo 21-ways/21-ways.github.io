@@ -53,7 +53,7 @@ Terminology
 Chapter Zero: A Quick And Dirty Explanation
 
 
-{% assign pages_sorted = concat: site.ways | sort: 'order' %}
+{% assign pages_sorted = site.ways | sort: 'order' %}
 
 {% for way in pages_sorted %}
   {% if way.link %}
