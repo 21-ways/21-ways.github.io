@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: way
 title: "Introduction"
 redirect_from: /intro
 author: Gigi

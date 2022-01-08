@@ -4,13 +4,13 @@
 
 ## What I've Learned from Falling Down the Bitcoin Rabbit Hole
 
-A collection of lessons learned from falling down the Bitcoin rabbit hole. 
+A collection of ways learned from falling down the Bitcoin rabbit hole. 
 
 Visit [21-ways.com](https://21-ways.com/) to view a live version of this site. 
 
 ## Print Version
 
-You can find the LaTeX files of the print version in the [21lessons-book](https://github.com/21-lessons/21lessons-book) repository.
+You can find the LaTeX files of the print version in the [21ways-book](https://github.com/21-ways/21ways-book) repository.
 
 ## License
 
