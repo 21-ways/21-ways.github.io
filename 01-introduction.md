@@ -43,14 +43,16 @@ is draw a sketch of the many ways that Bitcoin can be described and
 understood. Thus, let\'s consider some of the most memorable ones,
 starting with two that are both creative and cheeky:
 
-\"Imagine if keeping your car idling 24/7 produced solved Sudokus you
-could trade for heroin.\"
-\-- [Theophite]
+> Imagine if keeping your car idling 24/7 produced solved Sudokus you
+> could trade for heroin.
+>
+> <cite>[Theophite]</cite>
 
-\"\[Bitcoin is\] Math beanie babies that live in your computer created
-by your computer playing Numberwang with other computers to vote on
-which very giant excel spreadsheet we all have a copy of is correct.\"
-\-- [Eevee]
+> \[Bitcoin is\] Math beanie babies that live in your computer created
+> by your computer playing Numberwang with other computers to vote on
+> which very giant excel spreadsheet we all have a copy of is correct.
+>
+> <cite>[Eevee]</cite>
 
 What\'s amusing about these answers is how much truth they contain while
 also being absurd. Yes, you can trade bitcoin for heroin - if you
@@ -66,17 +68,23 @@ Now let\'s take a look at some of the more earnest attempts. Here is
 what serious people have to say when trying to answer \"What is
 Bitcoin?\" in a bite-sized way:
 
-\"Bitcoin can be best understood as distributed software that allows for
-transfer of value using a currency protected from unexpected inflation
-without relying on trusted third parties.\" \-- [Saifedean Ammous]
+> Bitcoin can be best understood as distributed software that allows for
+> transfer of value using a currency protected from unexpected inflation
+> without relying on trusted third parties.
+>
+> <cite>[Saifedean Ammous]</cite>
 
-\"\[Bitcoin is\] a global, neutral payment network that allows anyone on
-earth to transact a huge or tiny amount of value with anyone else within
-minutes, without needing to ask permission from a government, without
-disclosing one\'s personal information, and without the possibility of
-censorship.\" \-- [Alex Gladstein]
+> \[Bitcoin is\] a global, neutral payment network that allows anyone on
+> earth to transact a huge or tiny amount of value with anyone else within
+> minutes, without needing to ask permission from a government, without
+> disclosing one\'s personal information, and without the possibility of
+> censorship.
+>
+> <cite>[Alex Gladstein]</cite>
 
-\"Bitcoin is global, open, borderless, freedom money.\" \-- [Yan Pritzker]
+> Bitcoin is global, open, borderless, freedom money.
+>
+> <cite>[Yan Pritzker]</cite>
 
 Saifedean Ammous, economist and author of *The Bitcoin Standard*,
 focuses on the economic aspect of unexpected inflation - and rightly so.
@@ -121,14 +129,16 @@ fitting that the Bitcoin space has an army of pseudonymous users,
 creatives, authors, and programmers. Here is what these two have to say
 about what Bitcoin is:
 
-\"Bitcoin is the people\'s money.\"
-\-- [Bitgeiniog]
+> Bitcoin is the people\'s money.
+>
+> <cite>[Bitgeiniog]</cite>
 
-\"Bitcoin is like early electricity. Raw, dangerous, seems very volatile
-and hard to use. With time it\'ll start to feel safer, easier, and
-normal. Like electricity, it will inspire and power new unimaginable
-industries. And one day we\'ll wonder: how did we live without it?\"
-\-- [Obi-Wan Kenobit]
+> Bitcoin is like early electricity. Raw, dangerous, seems very volatile
+> and hard to use. With time it\'ll start to feel safer, easier, and
+> normal. Like electricity, it will inspire and power new unimaginable
+> industries. And one day we\'ll wonder: how did we live without it?
+>
+> <cite>[Obi-Wan Kenobit]</cite>
 
 Money for the people, by the people. Bitcoin is a peer-to-peer
 electronic cash system, as Satoshi Nakamoto explained in the title of
@@ -142,8 +152,8 @@ digging through all the material that I have saved over the years:
 same pitch for different people.\" I wholeheartedly agree, which is why
 I believe that Bitcoin cannot be well-understood by concentrating on a
 single facet of it. Instead, I believe that one has to try to understand
-Bitcoin holistically, which is why I will show you *21 Ways to Look at
-Bitcoin*.
+Bitcoin holistically, which is why I will show you *[21 Ways to Look at
+Bitcoin][21ways]*.
 
 [Theophite]: https://twitter.com/Theophite/status/1030225104234373121?s=20
 [Eevee]: https://twitter.com/ComradeEevee/status/1146296545828057088?s=20
@@ -155,3 +165,4 @@ Bitcoin*.
 
 
 [stumbled upon]: https://twitter.com/chriscoins1/status/1258226915325820929?s=20
+[21ways]: https://21-ways.com
