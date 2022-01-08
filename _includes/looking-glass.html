@@ -1,7 +1,7 @@
 {% assign sorted_articles = site.articles | where: 'category', 'Through the Looking Glass' | sort: 'date' %}
 
-{% if include.lesson %}
-  {% assign sorted_articles = sorted_articles | where: 'lesson', include.lesson %}
+{% if include.way %}
+  {% assign sorted_articles = sorted_articles | where: 'way', include.way %}
 {% endif %}
 
 {% if include.hide_heading != true and sorted_articles.size > 0 %}

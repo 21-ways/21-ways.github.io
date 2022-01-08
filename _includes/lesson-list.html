@@ -9,15 +9,15 @@
   {% assign skipUntil = "Lesson 14" %}
 {% endcase %}
 <ul>
-{% assign lessons_sorted = site.ways | sort: 'order' %}
-{% for lesson in lessons_sorted %}
-  {% if lesson.title == skipUntil %}{% assign skipUntil = false %}{% continue %}{% endif %}
+{% assign ways_sorted = site.ways | sort: 'order' %}
+{% for way in ways_sorted %}
+  {% if way.title == skipUntil %}{% assign skipUntil = false %}{% continue %}{% endif %}
   {% if skipUntil %}{% continue %}{% endif %}
   <li>
-    <a href="{{ lesson.url | absolute_url }}">
-      {{ lesson.title }}: {{ lesson.subtitle }}
+    <a href="{{ way.url | absolute_url }}">
+      {{ way.title }}: {{ way.subtitle }}
     </a>
   </li>
-  {% if lesson.title == breakAfter %}{% break %}{% endif %}
+  {% if way.title == breakAfter %}{% break %}{% endif %}
 {% endfor %}
 </ul>
