@@ -1,3 +1,11 @@
+---
+layout: lesson
+title: "Introduction"
+redirect_from: /intro
+author: Gigi
+order: 0
+---
+
 *Bitcoin is different things to different people.* The first time I\'ve
 heard this sentence, I immediately realized its profound truth. How you
 look at Bitcoin - and how you understand and describe it - depends
