@@ -1,14 +1,14 @@
 ---
 layout: page
 ---
-<div class="lesson">
+<div class="way">
 {% if page.audio %}
   {% capture absoluteURL %}{{ page.audio | absolute_url }}{% endcapture %}
   {% include player.html file=absoluteURL %}
   <hr/>
 {% endif %}
-  {% include lesson-navigation.html style="compact"%}
+  {% include way-navigation.html style="compact"%}
   {{ content }}
   <hr/>
-  {% include lesson-navigation.html %}
+  {% include way-navigation.html %}
 </div>

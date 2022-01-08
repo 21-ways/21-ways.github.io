@@ -6,7 +6,7 @@ subtitle_link: http://21-ways.com
 category: bitcoin
 description: The prismatic nature of Bitcoin explored through 21 lenses.
 quote: "\"Is it possible that there are people who say 'Bitcoin' and suppose they mean something shared by all?\""
-image: /assets/images/21-lessons-twitter-cover-audio.jpg
+image: /assets/images/21-ways-twitter-cover.jpg
 ---
 
 {% include image.html path="/assets/images/21-ways-circle-orange.png" link="https://patreon.com/dergigi" %}
@@ -53,8 +53,7 @@ Terminology
 Chapter Zero: A Quick And Dirty Explanation
 
 
-{% assign toc_pages = site.pages | where: "toc", true %}
-{% assign pages_sorted = toc_pages | concat: site.ways | sort: 'order' %}
+{% assign pages_sorted = site.ways | sort: 'order' %}
 
 {% for way in pages_sorted %}
   {% if way.link %}
