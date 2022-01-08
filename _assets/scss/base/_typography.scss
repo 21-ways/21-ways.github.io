@@ -110,6 +110,10 @@ p {
 //----------------------------------------------
 // Footnotes
 //----------------------------------------------
+.footnotes {
+  margin-top: 5em;
+}
+
 .footnotes:before {
   content: "Footnotes";
 }
