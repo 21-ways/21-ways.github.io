@@ -42,7 +42,9 @@ on [patreon] if you want to tag along and support the project.
 
 ---
 
-Introduction
+<a id="toc"/>
+
+[Introduction]
 
 
 Terminology
@@ -68,3 +70,5 @@ What Bitcoin Is Not
 Glossary
 
 Thanks
+
+[Introduction]: {{ 'intro' | absolute_url }}
