@@ -20,7 +20,7 @@
 //----------------------------------------------
 .post {
   ol,
-  ul:not(.post__social):not(.lesson__navigation) {
+  ul:not(.post__social):not(.way__navigation) {
     margin: {
       bottom: 1.5rem;
       left: 1em;
@@ -79,7 +79,7 @@
 //----------------------------------------------
 //  Lesson Navigation
 //----------------------------------------------
-.lesson {
+.way {
   &__navigation {
     @extend %no-list-style;
     @extend %no-margin-or-padding;
