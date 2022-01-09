@@ -1,6 +1,7 @@
 ---
 layout: way
-title: "Chapter Zero: A Quick And Dirty Explanation"
+title: Chapter Zero
+subtitle: A Quick And Dirty Explanation
 redirect_from:
   - /quick
   - /dirty
@@ -268,7 +269,7 @@ In short, here is what \"Bitcoin\" is:
 
 TODO: Give attribution to \@deepvoid1981 as he sees fit.
 
-\[TODO: insert circularity.png\]
+{% include image.html name="circularity.png" %}
 
 What follows is my attempt to break this loop apart, hoping that it
 helps to shine some light on this strange phenomenon. To do that, an
