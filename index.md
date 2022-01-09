@@ -49,7 +49,7 @@ This project is run on a [value-for-value][v4v] basis. 🧡
 
 [Introduction]
 
-[Terminology]
+Terminology
 
 [Chapter Zero: A Quick And Dirty Explanation][zero]
 
