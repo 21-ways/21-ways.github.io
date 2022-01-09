@@ -31,6 +31,20 @@ This project is run on a [value-for-value][v4v] basis. 🧡
 
 ---
 
+<div class="action-buttons">
+  <div class="button button-red button-large">
+    <a href="https://patreon.com/dergigi"><i class="fab fa-patreon"></i> &nbsp; Become a Patron</a>
+  </div>
+  <small>
+    (or
+    <a href="https://dergigi.com/support">support me</a>
+    in another way
+    )
+  </small>
+</div>
+
+---
+
 <a id="toc"/>
 
 [Introduction]
@@ -74,5 +88,3 @@ Thanks
     )
   </small>
 </div>
-
----
