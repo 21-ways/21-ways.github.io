@@ -87,7 +87,7 @@ you can do with it, why it is important, who is behind it, what
 ### How It Works
 
 In essence, Bitcoin is a large spreadsheet that documents who owns how
-much of Bitcoin\'s internal units: *sats, *short for *satoshis.* This
+much of Bitcoin\'s internal units: *[sats]*, short for *satoshis*. This
 spreadsheet contains a record of all transactions that ever happened, in
 the form of \"Alice sent 21 sats to Bob.\" To keep everyone honest,
 everyone gets a copy of this spreadsheet. Everyone can add entries at
@@ -104,6 +104,8 @@ person who wants to send money actually has the money and that the money
 is sent to only one other person. In addition, these rules make sure
 that no money is created out of thin air, which in turn ensures that no
 more than 2.1 quadrillion sats (= 21 million bitcoin) will ever exist.
+
+[sats]: {{ 'terminology#sats' | absolute_url }}
 
 No single entity can change the rules because everyone on the network
 has to opt-in to changes voluntarily. All participants play according to
