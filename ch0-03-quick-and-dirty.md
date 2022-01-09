@@ -17,12 +17,12 @@ toc: true
 > can connect the explanations with what is really clear, therefore clear
 > explanations are not clear.
 >
-> [Gertrude Stein](https://en.wikiquote.org/wiki/Gertrude_Stein)
+> <cite>[Gertrude Stein](https://en.wikiquote.org/wiki/Gertrude_Stein)</cite>
 
 > Paradoxes explain everything. Since they do, they cannot be
 > explained.
 >
-> [Gene Wolfe](https://en.wikiquote.org/wiki/Gene_Wolfe)
+> <cite>[Gene Wolfe](https://en.wikiquote.org/wiki/Gene_Wolfe)</cite>
 
 Above all, Bitcoin is paradoxical. It is simple yet complicated,
 ever-changing yet unchangeable. A novel machine without any novel parts;
