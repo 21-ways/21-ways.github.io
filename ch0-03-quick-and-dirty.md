@@ -236,22 +236,22 @@ had the right idea and built a system that would actually work.
 *What is Bitcoin?* That\'s the 2.1 quadrillion sats question. It is what
 humanity is trying to figure out - and what this book is all about. I
 believe that the answer to this question depends on your point of view
-and how you are willing to perceive it. To paraphrase Morpheus
-\[Footnote: The son of Hypnos and the god of dreams.\]: \"Unfortunately,
-no one can be told what Bitcoin is. You have to see it for yourself.\"
+and how you are willing to perceive it. To paraphrase Morpheus[^morpheus]:
+\"Unfortunately, no one can be told what Bitcoin is. You have to see it for
+yourself.\"
+
+[^morpheus]: The son of Hypnos and the god of dreams.
 
 It is not readily apparent what people mean when they speak of Bitcoin.
 Some are talking about the network, some are talking about the asset,
 some are talking about the industry or community around it.
 
-I had an epiphany a couple of years ago when trying to make sense of the
-elusive and circular nature of Bitcoin. At least one other person[^deepvoid1981]
-had a
-similar insight: Bitcoin is not
-only different things to different people, but it is many things at
-once, and we lack precise words to talk about it meaningfully. To make
-matters worse, all the things that we call Bitcoin are interconnected in
-a circular loop. Every part influences the whole.
+I had an epiphany a couple of years ago when trying to make sense of the elusive
+and circular nature of Bitcoin. At least one other person[^deepvoid1981] had a
+similar insight: Bitcoin is not only different things to different people, but
+it is many things at once, and we lack precise words to talk about it
+meaningfully. To make matters worse, all the things that we call Bitcoin are
+interconnected in a circular loop. Every part influences the whole.
 
 In short, here is what \"Bitcoin\" is:
 
