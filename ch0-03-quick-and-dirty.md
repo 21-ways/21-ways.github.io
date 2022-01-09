@@ -42,22 +42,20 @@ even a basic understanding of Bitcoin requires some expertise in
 networks, markets, cryptography, game theory, mathematics, physics,
 computer science, and human behavior. If it were easy to understand and
 convey, hyperbitcoinization[^hyperbitcoinization] would be in
-the past, and we would be on a bitcoin standard \[Footnote: The *Bitcoin
-Standard* is a book written by Saifedean Ammous, describing how bitcoin
-could be the base of a global sound monetary standard, similarly to how
-the world used to be on a gold standard in the past.\] already. As
+the past, and we would be on a bitcoin standard[^standard] already. As
 Satoshi remarked almost one year after his initial publication:
 \"Writing a description for this thing for general audiences is bloody
 hard. There\'s nothing to relate it to.\"
 
 [^hyperbitcoinization]: [Hyperbitcoinization]({{ 'terminology#hyperbitcoinization' | absolute_url  }}) is the final phase of the transitionary period in which humanity upgrades its monetary operating system from fiat money to bitcoin.
 
+[^standard]: The [Bitcoin Standard](https://amzn.to/2TLl5RP) is a book written by Saifedean Ammous, describing how bitcoin could be the base of a global sound monetary standard, similarly to how the world used to be on a gold standard in the past.
+
 While many people have tried to do exactly that - describe Bitcoin for
 general audiences - I\'m not sure that such a thing is even possible.
 There truly is nothing to relate it to, so all metaphors, historical
 equivalencies, and explanatory shortcuts will miss the point in one way
-or another. It seems to me that the proverbial sat \[Footnote: in
-pre-bitcoin times, we would call this a penny.\] will drop for
+or another. It seems to me that the proverbial sat[^sat] will drop for
 everyone *individually*, and without talking to you personally, I can\'t
 know what your hangups are. Maybe you think that Bitcoin has no
 intrinsic value, or that it can be shut down by governments, or that it
@@ -70,6 +68,8 @@ come easy. It seems that very few people are curious enough to put in
 the necessary work, which, in turn, means that most people will have to
 learn the hard way: they will have to deal with bitcoin out of
 necessity.
+
+[^sat]: In pre-bitcoin times, we would call this a penny.
 
 That being said, it is definitely possible to understand Bitcoin and the
 implications that its continued existence will bring about. If this
