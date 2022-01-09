@@ -245,8 +245,9 @@ Some are talking about the network, some are talking about the asset,
 some are talking about the industry or community around it.
 
 I had an epiphany a couple of years ago when trying to make sense of the
-elusive and circular nature of Bitcoin. At least one other person had a
-similar insight \[TODO Footnote/cite: \@deepvoid1981\]: Bitcoin is not
+elusive and circular nature of Bitcoin. At least one other person[^deepvoid1981]
+had a
+similar insight: Bitcoin is not
 only different things to different people, but it is many things at
 once, and we lack precise words to talk about it meaningfully. To make
 matters worse, all the things that we call Bitcoin are interconnected in
@@ -267,7 +268,7 @@ In short, here is what \"Bitcoin\" is:
     intolerant minority from all backgrounds that will do everything in
     their power to defend the idea.
 
-TODO: Give attribution to \@deepvoid1981 as he sees fit.
+[^deepvoid1981]: This person goes by the name of [Deep Void](https://twitter.com/deepvoid1981) and voiced his insight in [a tweet](https://archive.is/1KLeC). I explored this line of thinking in my [Circularity thread](https://archive.is/bzVcQ) and in various [discussions](https://dergigi.com/media).
 
 {% include image.html name="circularity.png" %}
 
