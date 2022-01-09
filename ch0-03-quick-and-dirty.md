@@ -41,9 +41,7 @@ Bitcoin to truly appreciate the gravity of the situation. Unfortunately,
 even a basic understanding of Bitcoin requires some expertise in
 networks, markets, cryptography, game theory, mathematics, physics,
 computer science, and human behavior. If it were easy to understand and
-convey, hyperbitcoinization \[Footnote: \<\<Hyperbitcoinization>\> is
-the final phase of the transitionary period in which humanity upgrades
-its monetary operating system from fiat money to bitcoin.\] would be in
+convey, hyperbitcoinization[^hyperbitcoinization] would be in
 the past, and we would be on a bitcoin standard \[Footnote: The *Bitcoin
 Standard* is a book written by Saifedean Ammous, describing how bitcoin
 could be the base of a global sound monetary standard, similarly to how
@@ -51,6 +49,8 @@ the world used to be on a gold standard in the past.\] already. As
 Satoshi remarked almost one year after his initial publication:
 \"Writing a description for this thing for general audiences is bloody
 hard. There\'s nothing to relate it to.\"
+
+[^hyperbitcoinization]: [Hyperbitcoinization]({{ 'terminology#hyperbitcoinization' | absolute_url  }}) is the final phase of the transitionary period in which humanity upgrades its monetary operating system from fiat money to bitcoin.
 
 While many people have tried to do exactly that - describe Bitcoin for
 general audiences - I\'m not sure that such a thing is even possible.
