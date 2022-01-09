@@ -150,10 +150,9 @@ internet connection. In principle, however, you can use any source of
 random information to create a Bitcoin wallet, and any communications
 channel to send and receive transactions. A pair of dice and a ham radio
 will work just as well as a smartphone and the internet, as Bitcoin
-enthusiasts have demonstrated in the past. \[Footnote: This is also
-why [outlawing
-Bitcoin](https://dergigi.com/2021/08/02/implications-of-outlawing-bitcoin/) is
-a fool\'s errand.\]
+enthusiasts have demonstrated in the past.[^law]
+
+[^law]: This is also why [outlawing Bitcoin](https://dergigi.com/law) is a fool\'s errand.
 
 Unfortunately, permissionless transactions and inflation-resistant
 savings aren\'t very attractive to most people. Until one is forced to
