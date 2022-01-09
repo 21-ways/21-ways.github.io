@@ -5,6 +5,7 @@ audio:
 permalink: toc
 order: ch0-01
 toc: true
+done: true
 ---
 
 {% include way-toc.html %}

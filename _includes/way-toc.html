@@ -4,16 +4,12 @@
 <ul>
 {% for way in pages_sorted %}
   <li>
-    <a href="{{ way.url | absolute_url }}">
-      {{ way.title }}
-      {% if way.title contains 'Lesson ' or way.title contains 'Chapter ' %} : {{ way.subtitle }} {% endif %}
-    </a>
+    {% if way.done or way.link %}
+    <a href="{{ way.url | absolute_url }}"> {{ way.title }} </a>
+    {% else %}
+    {{ way.title }}
+    {% endif %}
   </li>
 
-  <!-- Sub-lists for each chapter -->
-  {% if way.title contains 'Chapter' %}<ul>{% endif %}
-  {% if way.title == 'Lesson 7' %}</ul>{% endif %}
-  {% if way.title == 'Lesson 14' %}</ul>{% endif %}
-  {% if way.title == 'Lesson 21' %}</ul>{% endif %}
 {% endfor %}
 </ul>

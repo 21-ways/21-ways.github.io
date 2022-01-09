@@ -5,6 +5,7 @@ redirect_from: /intro
 author: Gigi
 order: ch0-02
 toc: true
+done: true
 ---
 
 *Bitcoin is different things to different people.* The first time I\'ve
