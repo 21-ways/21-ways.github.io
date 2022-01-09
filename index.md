@@ -22,9 +22,12 @@ Just like my first book 21 Lessons, this book will be released under a
 permissive [creative commons] license. Follow me on [twitter] and support me
 on [patreon] if you want to tag along and support the project.
 
+This project is run on a [value-for-value][v4v] basis. 🧡
+
 [creative commons]: https://dergigi.com/license
 [twitter]: https://twitter.com/dergigi
 [patreon]: https://patreon.com/dergigi
+[v4v]: https://dergigi.com/busking
 
 ---
 
@@ -46,11 +49,13 @@ on [patreon] if you want to tag along and support the project.
 
 [Introduction]
 
+[Terminology]
 
-Terminology
+[Chapter Zero: A Quick And Dirty Explanation][zero]
 
-
-Chapter Zero: A Quick And Dirty Explanation
+[Introduction]: {{ 'intro' | absolute_url }}
+[Terminology]: {{ 'terminology' | absolute_url }}
+[zero]: {{ '0' | absolute_url }}
 
 
 {% assign pages_sorted = site.ways | sort: 'order' %}
@@ -70,4 +75,16 @@ Glossary
 
 Thanks
 
-[Introduction]: {{ 'intro' | absolute_url }}
+---
+
+<div class="action-buttons">
+  <div class="button button-red button-large">
+    <a href="https://patreon.com/dergigi"><i class="fab fa-patreon"></i> &nbsp; Become a Patron</a>
+  </div>
+  <small>
+    (or
+    <a href="https://dergigi.com/support">support me</a>
+    in another way
+    )
+  </small>
+</div>
