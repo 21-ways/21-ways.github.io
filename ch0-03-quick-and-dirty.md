@@ -7,6 +7,8 @@ redirect_from:
   - /dirty
   - /explanation
   - /quick-and-dirty
+  - /zero
+  - /0
 author: Gigi
 order: ch0-03
 toc: true
