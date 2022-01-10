@@ -203,11 +203,12 @@ is why Bitcoin optimizes for decentralization above all else.
 
 ### Putting It All Together
 
-As we will see in [Chapter
-1](https://dergigi.com/2021/06/13/bitcoin-is-an-idea/), a lot of people
+As we will see in [Chapter 1], a lot of people
 thought that it should be possible to devise a system for digital money
 using these building blocks. It turns out they were right, but it took
 the genius of *Satoshi Nakamoto* to make it all work.
+
+[Chapter 1]: {{ '1' | absolute_url }}
 
 Bitcoin truly works in mysterious ways. The esoteric building blocks
 outlined above are game-theoretically glued together to create a
