@@ -243,10 +243,13 @@ it instead. Now the sats belong to Alice. To send them to Bob, she has
 to use her key to remove the lock and put someone else\'s instead, and
 so on.
 
-But, you ask, wouldn\'t that transfer all of my funds to Alice? That\'s
-right, which is why new vaults are created with every transaction. Two
-more details: (1) your keys aren\'t physical keys, but magic spells that
-have to be \"spoken.\" (2) sats outside of vaults do not exist.
+But, you ask, wouldn\'t that transfer all of my funds to Alice? That\'s right,
+which is why new vaults are created with every transaction. In this case, one
+for Alice and one for you to get your change back. Two more details:
+
+1. Your keys aren\'t physical keys, but magic spells that
+have to be \"spoken.\"
+2. Sats outside of vaults do not exist.
 
 {% include image.html name="utxos.png" %}
 
