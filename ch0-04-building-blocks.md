@@ -5,7 +5,7 @@ subtitle: Bitcoin's Building Blocks
 redirect_from:
   - /blocks
   - /building-blocks
-  - /0.1
+  - /0-1
 author: Gigi
 order: ch0-04
 toc: true
