@@ -53,9 +53,12 @@ Terminology
 
 [Chapter Zero: A Quick And Dirty Explanation][zero]
 
+[Chapter 0.1: Bitcoin's Building Blocks][0.1]
+
 [Introduction]: {{ 'intro' | absolute_url }}
 [Terminology]: {{ 'terminology' | absolute_url }}
 [zero]: {{ '0' | absolute_url }}
+[0.1]: {{ 'blocks' | absolute_url }}
 
 
 {% assign pages_sorted = site.ways | sort: 'order' %}
