@@ -63,16 +63,15 @@ encrypted---or signed, as in Bitcoin\'s case---is data as well.
 
 All modern cryptography systems are transparent systems. They are built
 in a way that ensures that the system is secure, even if your enemy
-knows everything about the system *except* your personal secret.
-\[Footnote: This is known as Kerckhoff\'s principle or Shannon\'s maxim.
-It is the opposite of \"security through obscurity.\"\] Bitcoin is such
-a transparent cryptography system, even though it doesn\'t encrypt any
-data. In terms of cryptography, all that Bitcoin makes use of are
-cryptographic hashes and digital signatures, both of which are distinct
-from encryption. There are no secrets in Bitcoin. The only secret is
-your personal secret, which is your private key. As long as you manage
-to keep your private key secure, your bitcoin funds will be secure as
-well.
+knows everything about the system *except* your personal secret.[^shannon]
+Bitcoin is such a transparent cryptography system, even though it doesn\'t
+encrypt any data. In terms of cryptography, all that Bitcoin makes use of are
+cryptographic hashes and digital signatures, both of which are distinct from
+encryption. There are no secrets in Bitcoin. The only secret is your personal
+secret, which is your private key. As long as you manage to keep your private
+key secure, your bitcoin funds will be secure as well.
+
+[^shannon]: This is known as Kerckhoff\'s principle or Shannon\'s maxim. It is the opposite of \"security through obscurity.\"
 
 To summarize: public-key cryptography is used to create two numbers that
 are mathematically linked. One number is shared with the public; the
@@ -161,13 +160,11 @@ In Bitcoin, hash functions are used all over the place. For example:
 what we call \"mining\" is the process of trying to find a number that,
 when put into a potentially valid block, produces an output that fits
 certain criteria. The SHA256 hash function is what produces this output.
-Hash functions are also used to generate addresses \[Footnote: While
-SHA256 is used most of the time in Bitcoin, a second hash function is
-used in addition to SHA256 to generate addresses: RIPEMD160.\], identify
-redeem scripts, identify transactions and blocks, and more. \[Footnote:
-See this comprehensive StackExchange answer by Pieter Wuille for a long
-list of components that use hashes and hash functions:
-https://archive.is/5qZTp \]
+Hash functions are also used to generate addresses[^ripemd], identify
+redeem scripts, identify transactions and blocks, and more.[^pieter]
+
+[^ripemd]: While SHA256 is used most of the time in Bitcoin, a second hash function is used in addition to SHA256 to generate addresses: RIPEMD160.
+[^pieter]: See this comprehensive StackExchange answer by Pieter Wuille for a long list of components that use hashes and hash functions: [https://archive.is/5qZTp](https://archive.is/5qZTp)
 
 Hash functions are such an important building block because absent of
 central authority, the data itself is all we have to identify and index
