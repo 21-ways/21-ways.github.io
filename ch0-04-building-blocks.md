@@ -160,7 +160,7 @@ In Bitcoin, hash functions are used all over the place. For example:
 what we call \"mining\" is the process of trying to find a number that,
 when put into a potentially valid block, produces an output that fits
 certain criteria. The SHA256 hash function is what produces this output.
-Hash functions are also used to generate addresses[^ripemd], identify
+Hash functions are also used to generate addresses,[^ripemd] identify
 redeem scripts, identify transactions and blocks, and more.[^pieter]
 
 [^ripemd]: While SHA256 is used most of the time in Bitcoin, a second hash function is used in addition to SHA256 to generate addresses: RIPEMD160.
