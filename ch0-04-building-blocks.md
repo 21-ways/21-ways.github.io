@@ -257,8 +257,9 @@ transaction is signed and broadcast over the **peer-to-peer network**,
 Alice\'s **digital signature** is checked by everyone. If the
 transaction is deemed valid, it will eventually be confirmed, and the
 transfer of funds is complete. Alice\'s old vault is now empty. Two new
-vaults were created: one for Alice and one for Bob. \[Footnote: What I
-call \"vaults\" here is what we call UTXOs in the Bitcoin world.\]
+vaults were created: one for Alice and one for Bob.[^vaults]
+
+[^vaults]: What I call \"vaults\" here is what we call UTXOs in the Bitcoin world.
 
 While this picture is again incomplete, it is a somewhat accurate
 description of what happens when sats change hands. I hope that an
