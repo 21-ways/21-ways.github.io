@@ -108,8 +108,6 @@ A proper digital signature scheme ensures:
 -   and **non-repudiation**: ensuring that the signer can not deny
     having created the signature after the fact.
 
-{% include image.html name="signing.png" %}
-
 In other words, digitally signing a message binds the identity of the
 sender to the message itself, just like a regular signature binds a
 person to a document. Thanks to cryptography, however, the guarantees
@@ -118,6 +116,8 @@ guarantees of a physical signature. It is virtually impossible to forge
 a digital signature that was created by a strong signature scheme. In
 addition to these strong integrity and authentication guarantees, a
 digital signature is easy to create and verify.
+
+{% include image.html name="signing.png" %}
 
 To summarize: digital signatures are used to verify that a message was
 created by a known sender and that the message was not altered in
