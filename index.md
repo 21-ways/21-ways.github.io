@@ -47,36 +47,7 @@ This project is run on a [value-for-value][v4v] basis. 🧡
 
 <a id="toc"/>
 
-[Introduction]
-
-Terminology
-
-[Chapter Zero: A Quick And Dirty Explanation][zero]
-
-[Chapter 0.1: Bitcoin's Building Blocks][0.1]
-
-[Introduction]: {{ 'intro' | absolute_url }}
-[Terminology]: {{ 'terminology' | absolute_url }}
-[zero]: {{ '0' | absolute_url }}
-[0.1]: {{ 'blocks' | absolute_url }}
-
-
-{% assign pages_sorted = site.ways | sort: 'order' %}
-
-{% for way in pages_sorted %}
-  {% if way.link %}
-  1. [{{ way.title }}]({{ way.link }})
-  {% else %}
-  1. {{ way.title }}
-  {% endif %}
-{% endfor %}
-
-
-What Bitcoin Is Not
-
-Glossary
-
-Thanks
+{% include way-toc.html %}
 
 ---
 
