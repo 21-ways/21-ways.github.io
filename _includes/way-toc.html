@@ -3,6 +3,8 @@
 
 <ul>
 {% for way in pages_sorted %}
+  {% if way.order == 'ch1-01' %}<li>21 Ways: Bitcoin Is …</li><ol>{% endif %}
+
   <li>
     {% if way.done or way.link %}
     <a href="{{ way.url | absolute_url }}"> {{ way.title }} </a>
@@ -11,5 +13,6 @@
     {% endif %}
   </li>
 
+  {% if way.order == 'ch1-21' %}</ol>{% endif %}
 {% endfor %}
 </ul>
