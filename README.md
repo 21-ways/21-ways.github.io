@@ -1,21 +1,24 @@
 # 21 Ways
 
-![](https://21-ways.com/assets/images/bitcoin-orange-pill.jpg)
+![](https://21-ways.com/assets/images/21-ways-circle-orange.png)
 
-## What I've Learned from Falling Down the Bitcoin Rabbit Hole
+## 21 Ways To Look At Bitcoin
 
-A collection of ways learned from falling down the Bitcoin rabbit hole. 
+Bitcoin is different things to different people. This book aims to explore various lenses through which Bitcoin can be viewed.
+
+It is a work in progress. Some chapters were published online already and are available on a [value-for-value](https://dergigi.com/2021/12/30/the-freedom-of-value/) basis.
 
 Visit [21-ways.com](https://21-ways.com/) to view a live version of this site. 
 
 ## Print Version
 
-You can find the LaTeX files of the print version in the [21ways-book](https://github.com/21-ways/21ways-book) repository.
+The print version of this book will be available in a separate repository.
 
 ## License
 
 The words are licensed under the Creative Commons Attribution-ShareAlike 4.0
-International License. To view a copy of this license, visit
+International License. See [my licensing page](https://dergigi.com/license/) for more details. 
+To view a full copy of this license, visit
 http://creativecommons.org/licenses/by-sa/4.0/.
 
 The code is licensed under the MIT license.
@@ -24,4 +27,3 @@ The code is licensed under the MIT license.
 
 Created with 🧡 by [Gigi](https://dergigi.com/support/).
 
-[![tippin.me](https://badgen.net/badge/%E2%9A%A1%EF%B8%8Ftippin.me/@dergigi/F0918E)](https://tippin.me/@dergigi)
