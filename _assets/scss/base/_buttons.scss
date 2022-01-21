@@ -1,7 +1,51 @@
 //----------------------------------------------
 // Buttons
 //----------------------------------------------
-button {
+
+.value4value {
+  margin: 0em 0 4em;
+  text-align: center;
+
+  .input-wrapper {
+    input, select {
+      max-width: 4em;
+      background-color: $color-black;
+      border: 0;
+      color: $color-darkgrey;
+      background: none;
+    }
+
+    input[type=number]::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+    }
+    input[type=number] {
+      -moz-appearance: textfield;
+      appearance: textfield;
+      margin: 0;
+    }
+  }
+
+  button {
+    border: 1px solid $color-blue;
+    display: inline-block;
+    padding: 0.5em 2em;
+    margin: 0.21em;
+    background-color: $color-blue-darker;
+    color: $color-white !important;
+    border-radius: 8px;
+    text-decoration: none !important;
+    cursor: pointer;
+
+    font-weight: bolder;
+    font-size: $font-large;
+
+    img {
+      max-height: 21px;
+    }
+  }
+}
+
+.btcpay-flex-container button {
   @include btn-split($color-white, $color-white, 2px, 0.75em 1em);
 
   margin: 0;
@@ -20,7 +64,10 @@ button {
 }
 
 .action-buttons {
+  font-family: $font;
   text-align: center;
+  margin-top: 1em;
+  margin-bottom: 2em;
 
   small {
     color: $color-darkgrey
@@ -64,6 +111,13 @@ button {
   }
 }
 
+.button-wide {
+  a {
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+}
+
 .button-red {
   a {
     background-color: $color-red;
@@ -75,7 +129,16 @@ button {
 
 .button-blue {
   a {
+    background-color: $color-blue;
+  }
+  a:hover {
     background-color: $color-orange;
+  }
+}
+
+.button-green {
+  a {
+    background-color: $color-green;
   }
   a:hover {
     background-color: $color-orange;
@@ -91,11 +154,27 @@ button {
   }
 }
 
+.button-transparent {
+  a {
+    background-color: none;
+    border: 1px solid $color-orange;
+  }
+  a:hover {
+    background-color: $color-orange;
+    border: 1px solid $color-yellow;
+    color: $color-black !important;
+  }
+}
+
 .button-orange {
   a {
     background-color: $color-orange;
+    border: 1px solid $color-orange;
+    color: $color-black !important;
   }
   a:hover {
-    background-color: $color-yellow;
+    background-color: $color-black;
+    border: 1px solid $color-orange;
+    color: $color-orange !important;
   }
 }
