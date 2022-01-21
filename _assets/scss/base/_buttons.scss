@@ -169,8 +169,12 @@
 .button-orange {
   a {
     background-color: $color-orange;
+    border: 1px solid $color-orange;
+    color: $color-black !important;
   }
   a:hover {
-    background-color: $color-yellow;
+    background-color: $color-black;
+    border: 1px solid $color-orange;
+    color: $color-orange !important;
   }
 }
