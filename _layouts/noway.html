@@ -1,0 +1,15 @@
+---
+layout: page
+---
+<div class="way">
+{% if page.audio %}
+  {% capture absoluteURL %}{{ page.audio | absolute_url }}{% endcapture %}
+  {% include player.html file=absoluteURL %}
+  <hr/>
+{% endif %}
+  {% include way-navigation.html style="compact"%}
+  {% include noway.html %}
+  <hr/>
+  {% include way-navigation.html %}
+  <hr/>
+</div>

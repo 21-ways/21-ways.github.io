@@ -1,5 +1,5 @@
 ---
-layout: way
+layout: noway
 title: Thanks
 redirect_from:
   - /thanks
