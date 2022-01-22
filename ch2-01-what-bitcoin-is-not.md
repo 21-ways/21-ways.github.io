@@ -1,5 +1,5 @@
 ---
-layout: way
+layout: noway
 title: What Bitcoin Is Not
 redirect_from:
   - /not

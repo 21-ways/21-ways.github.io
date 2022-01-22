@@ -1,5 +1,5 @@
 ---
-layout: way
+layout: noway
 title: Glossary
 redirect_from:
   - /glossary
