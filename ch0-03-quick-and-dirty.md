@@ -90,7 +90,7 @@ you can do with it, why it is important, who is behind it, what
 ### How It Works
 
 In essence, Bitcoin is a large spreadsheet that documents who owns how
-much of Bitcoin\'s internal units: *[sats]*, short for *satoshis*. This
+much of Bitcoin\'s internal units: *sats*, short for *satoshis*. This
 spreadsheet contains a record of all transactions that ever happened, in
 the form of \"Alice sent 21 sats to Bob.\" To keep everyone honest,
 everyone gets a copy of this spreadsheet. Everyone can add entries at
