@@ -8,8 +8,10 @@ layout: page
 {% endif %}
   {% include way-navigation.html style="compact"%}
   {{ content }}
-  {% include conversations.html %}
+  {% include way-navigation.html style="next" %}
+  <hr/>
   {% include translations.html %}
+  {% include conversations.html %}
   <hr/>
   {% include way-navigation.html %}
   <hr/>

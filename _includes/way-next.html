@@ -37,30 +37,6 @@
   <li><a href="{{ nextLesson.url | absolute_url }}" title="Next"></a></li>
   {% endif %}
 </ul>
-{% elsif include.style == "next" %}
-<ul class="way__navigation">
-  {% if idxp < 0 %}
-  <li></li>
-  {% else %}
-  <li><a href="{{ previousLesson.url | absolute_url }}" title="Previous"></a></li>
-  {% endif %}
-
-  <li></li>
-
-  {% if idxn >= ways_count %}
-  <li></li>
-  {% else %}
-    {% if include.style == "next" %}
-    <li>
-      <a href="{{ nextLesson.url | absolute_url }}" title="{{ nextLesson.subtitle }}">
-      {{ nextLesson.title }}
-      </a>
-    </li>
-    {% else %}
-    <li><a href="{{ nextLesson.url | absolute_url }}" title="Next"></a></li>
-    {% endif %}
-  {% endif %}
-</ul>
 {% else %}
 <ul class="way__navigation">
   {% if idxp < 0 %}
