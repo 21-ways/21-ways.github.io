@@ -29,6 +29,12 @@ collections:
   ways:
     output: true
     permalink: /:path/ # path = filename relative
+  translations:
+    title: Translations
+    output: false
+  episodes:
+    title: Episodes
+    output: true
 
 # Author settings
 author:
