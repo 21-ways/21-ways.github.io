@@ -1,0 +1,24 @@
+{% if include.code %}
+{% assign code = include.code %}
+{% else %}
+{% assign code = page.redirect_from | replace: '/', '' %}
+{% endif %}
+
+{% assign conversations = site.episodes | where: "code", code %}
+{% assign numConvs = conversations | size %}
+
+{% if numConvs > 0 %}
+  {% assign conversations = conversations | sort: "date" | reverse %}
+  {% if include.hide_heading != true %}
+    <h3 id="conversations">Conversations</h3>
+  {% endif %}
+<ul class="conversations">
+
+{% for conversation in conversations %}
+{% include sode.html sode=conversation %}
+{% endfor %}
+
+</ul>
+
+<p><a href="https://dergigi.com/media/all">All conversations »</a></p>
+{% endif %}
