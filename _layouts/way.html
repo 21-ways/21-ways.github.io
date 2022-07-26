@@ -8,8 +8,16 @@ layout: page
 {% endif %}
   {% include way-navigation.html style="compact"%}
   {{ content }}
+  {% assign code = page.redirect_from | replace: '/', '' %}
+  {% assign translations = site.translations | where: "code", code %}
+  {% assign conversations = site.episodes | where: "code", code %}
+  {% assign numTrans = translations | size %}
+  {% assign numConvs = conversations | size %}
+
+  {% if numTrans > 0 or numConvs > 0 %}
   {% include way-navigation.html style="next" %}
   <hr/>
+  {% endif %}
   {% include translations.html %}
   {% include conversations.html %}
   <hr/>
