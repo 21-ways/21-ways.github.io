@@ -6,10 +6,14 @@
   {% if way.order == 'ch1-01' %}<li>21 Ways: Bitcoin Is …</li><ol>{% endif %}
 
   <li>
-    {% if way.done or way.link %}
-    <a href="{{ way.url | absolute_url }}"> {{ way.title }} </a>
+    {% if way.layout == 'way' %}
+      {% if way.link %}
+      <a href="{{ way.link }}">{{ way.title }}</a>
+      {% else %}
+      <a href="{{ way.url | absolute_url }}">{{ way.title }}</a>
+      {% endif %}
     {% else %}
-    {{ way.title }}
+      {{ way.title }}
     {% endif %}
   </li>
 
