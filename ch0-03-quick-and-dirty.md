@@ -2,13 +2,7 @@
 layout: way
 title: Chapter Zero
 subtitle: A Quick And Dirty Explanation
-redirect_from:
-  - /quick
-  - /dirty
-  - /explanation
-  - /quick-and-dirty
-  - /zero
-  - /0
+redirect_from: /zero
 author: Gigi
 order: ch0-03
 toc: true
