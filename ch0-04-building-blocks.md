@@ -2,10 +2,7 @@
 layout: way
 title: Chapter 0.1
 subtitle: Bitcoin's Building Blocks
-redirect_from:
-  - /blocks
-  - /building-blocks
-  - /0-1
+redirect_from: /blocks
 author: Gigi
 order: ch0-04
 toc: true
