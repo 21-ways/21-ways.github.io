@@ -3,6 +3,7 @@ layout: way
 title: Chapter Zero
 subtitle: A Quick And Dirty Explanation
 redirect_from: /zero
+audio: /assets/audio/zero.ogg
 author: Gigi
 order: ch0-03
 toc: true
